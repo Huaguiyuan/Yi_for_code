@@ -1,0 +1,6 @@
+*.f
+*.dat
+*.m
+*.mod
+*.out
+backup/*
