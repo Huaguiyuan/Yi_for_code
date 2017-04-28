@@ -1,6 +1,6 @@
 *.f
 *.dat
-*.m
+#*.m
 *.mod
 *.out
 backup/*
